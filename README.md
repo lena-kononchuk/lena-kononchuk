@@ -6,8 +6,7 @@ I'm an enthusiastic Junior Frontend Developer based in Ukraine, on the lookout f
 * ✉️  You can contact me at [kononchuk.elena91@gmail.com](mailto:kononchuk.elena91@gmail.com)
 
 ### Languages and Tools:
-
-    <p align="center">
+    <p align="left">
          <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
             <img align="left"
                src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
@@ -54,7 +53,6 @@ I'm an enthusiastic Junior Frontend Developer based in Ukraine, on the lookout f
                width="36" height="82" alt="Figma" />
          </a>
       </p>
-
 <br>
 <br>
 <br>
