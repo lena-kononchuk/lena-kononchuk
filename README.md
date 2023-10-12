@@ -1,6 +1,6 @@
 ## Hey 👋, I'm Olena Kononchuk!
 
-I'm an enthusiastic Junior Frontend Developer based in Ukraine, on the lookout for opportunities to showcase my skills in real-world projects. I'm a motivated and dedicated individual, constantly expanding my knowledge and refining the skills needed to excel in the world of Front End Development. I strongly believe that my strong work ethic and commitment can be a valuable addition to any team. Feel free to explore my repositories to take a peek at my coding journey. If you're interested in collaborating, have questions, or simply want to connect, please don't hesitate to get in touch. I'm eager to contribute to the ever-evolving field of web development and look forward to potential opportunities. Thank you for stopping by my GitHub profile, and let's join forces to achieve success!
+I'm an enthusiastic Junior Frontend Developer based in Ukraine, on the lookout for opportunities to showcase my skills in real-world projects. I'm a motivated and dedicated individual, constantly expanding my knowledge and refining the skills needed to excel in the world of Front End Development. I strongly believe that my strong work ethic and commitment can be a valuable addition to any team. Feel free to explore my repositories to take a peek at my coding journey. If you're interested in collaborating, have questions, or simply want to connect, please don't hesitate to get in touch. I'm eager to contribute to the ever-evolving field of web development and look forward to potential opportunities. 
 
 * 🌍  I'm based in Lviv
 * ✉️  You can contact me at [kononchuk.elena91@gmail.com](mailto:kononchuk.elena91@gmail.com)
@@ -11,17 +11,13 @@ I'm an enthusiastic Junior Frontend Developer based in Ukraine, on the lookout f
 </p>
 <br>
 <br>
-<br>
-<p align="center">
-<a href="http://www.github.com/lena-kononchuk"><img src="https://github-readme-stats.vercel.app/api?username=lena-kononchuk&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="lena-kononchuk's GitHub stats" /></a>
 
-<a href="https://github.com/lena-kononchuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena-kononchuk&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-<br>
-<br>
+
+### 📊 Github Stats:
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=lena-kononchuk&theme=slateorange)
+![repos-per-language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lena-kononchuk&theme=slateorange)
 <br>
 <br>
 <br>
 
-### My GitHub Stats:
-
+Thank you for stopping by my GitHub profile, and let's join forces to achieve success!
