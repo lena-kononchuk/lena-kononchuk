@@ -12,6 +12,11 @@ I'm an enthusiastic Junior Frontend Developer based in Ukraine, on the lookout f
 <br>
 <br>
 <br>
+<p align="center">
+<a href="http://www.github.com/lena-kononchuk"><img src="https://github-readme-stats.vercel.app/api?username=lena-kononchuk&show_icons=true&hide=stars,&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&show_icons=true" alt="lena-kononchuk's GitHub stats" /></a>
+
+<a href="https://github.com/lena-kononchuk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lena-kononchuk&langs_count=10&title_color=ef4444&text_color=ffffff&icon_color=0891b2&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+</p>
 <br>
 <br>
 <br>
