@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Olena Kononchuk!
 
-I'm an enthusiastic Junior Frontend Developer based in Ukraine, on the lookout for opportunities to showcase my skills in real-world projects. I'm a motivated and dedicated individual, constantly expanding my knowledge and refining the skills needed to excel in the world of Front End Development. I strongly believe that my strong work ethic and commitment can be a valuable addition to any team. Feel free to explore my repositories to take a peek at my coding journey. If you're interested in collaborating, have questions, or simply want to connect, please don't hesitate to get in touch. I'm eager to contribute to the ever-evolving field of web development and look forward to potential opportunities. 
+I'm an enthusiastic Junior Frontend Developer based in Ukraine, actively seeking opportunities to apply my skills in real-world projects. I'm a motivated and dedicated individual, continuously expanding my knowledge and honing the skills required to excel in the field of Front End Development. 
+I firmly believe that my strong work ethic and commitment can bring significant value to any team. Feel free to explore my repositories to take a look at my coding journey. If you're interested in collaborating, have questions, or simply want to connect, please don't hesitate to get in touch. I'm eager to contribute to the ever-evolving field of web development and look forward to potential opportunities.
 
 
 ### Languages and Tools:
