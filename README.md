@@ -2,8 +2,6 @@
 
 I'm an enthusiastic Junior Frontend Developer based in Ukraine, on the lookout for opportunities to showcase my skills in real-world projects. I'm a motivated and dedicated individual, constantly expanding my knowledge and refining the skills needed to excel in the world of Front End Development. I strongly believe that my strong work ethic and commitment can be a valuable addition to any team. Feel free to explore my repositories to take a peek at my coding journey. If you're interested in collaborating, have questions, or simply want to connect, please don't hesitate to get in touch. I'm eager to contribute to the ever-evolving field of web development and look forward to potential opportunities. 
 
-* 🌍  I'm based in Lviv
-* ✉️  You can contact me at [kononchuk.elena91@gmail.com](mailto:kononchuk.elena91@gmail.com)
 
 ### Languages and Tools:
 <p align="center">
