@@ -1,7 +1,12 @@
 ## Hey 👋, I'm Olena Kononchuk!
 
-I'm an enthusiastic Junior Frontend Developer based in Ukraine, actively seeking opportunities to apply my skills in real-world projects. I'm a motivated and dedicated individual, continuously expanding my knowledge and honing the skills required to excel in the field of Front End Development. 
-I firmly believe that my strong work ethic and commitment can bring significant value to any team. Feel free to explore my repositories to take a look at my coding journey. If you're interested in collaborating, have questions, or simply want to connect, please don't hesitate to get in touch. I'm eager to contribute to the ever-evolving field of web development and look forward to potential opportunities.
+With 6 months of commercial experience as a Junior Frontend Developer, I've been actively involved in 5 projects within the creative industry, specializing in crafting bespoke websites tailored for artists, bands, and radio stations.
+
+On the frontend, I utilized Vue.js 3 to create captivating user interfaces, while leveraging Laravel and the Vite bundler on the backend to ensure smooth functionality.
+
+In addition to coding, I extensively utilized Sass for streamlined stylesheet development and Git (including Bitbucket/GitHub) for version control. I also gained practical experience with Docker for maintaining consistent development environments. Moreover, I proficiently managed databases using Sequel Ace, overseeing tasks such as data population and administration through the admin panel.
+
+Within a small team of just two, I took charge of testing my own work. Following the Scrum methodology, we communicated effectively via Slack and efficiently managed tasks using Trello.
 
 
 ### Languages and Tools:
