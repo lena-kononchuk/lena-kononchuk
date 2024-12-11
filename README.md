@@ -1,15 +1,16 @@
 ## Hey 👋, I'm Olena Kononchuk!
 
-With 6 months of work experience as a Junior Frontend Developer, I've been involved in 5 projects in the creative industry, making websites for artists, bands, and radio stations.
+# About Me
+As a Junior Frontend Developer, I have experience building responsive, user-friendly web applications with modern tools and technologies. My work spans 5 projects in the creative industry, including websites for artists, bands, and radio stations.
 
-For the frontend, I used Vue.js 3 to make user interfaces interesting. On the backend, I used Laravel and the Vite bundler to make sure everything works smoothly.
-
-Apart from coding, I used Sass a lot for stylesheets and Git (including Bitbucket/GitHub) for keeping track of changes. I also got the hang of Docker for keeping my work environment consistent. Additionally, I managed databases using Sequel Ace, doing things like adding data and handling admin tasks.
-
-In a team of just two, I took on testing my own work. We followed the Scrum method, keeping in touch using Slack and organizing tasks with Trello.
-
-Currently, I am actively seeking new job opportunities to further develop my skills and contribute to exciting projects in the tech industry.
-
+# Technologies & Tools
+Frontend: Vue.js 3, HTML5, CSS3 (Sass/Less).
+Backend: Laravel, Vite.
+Databases: MySQL, Sequel Ace.
+Version Control: Git (Bitbucket/GitHub).
+DevOps: Docker for consistent development environments.
+# Workflow
+I follow Scrum methodologies, manage tasks with Trello, and collaborate effectively using Slack. I’m passionate about creating clean, efficient, and scalable solutions.
 
 ### Languages and Tools:
 <p align="center">
