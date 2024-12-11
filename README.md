@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Olena Kononchuk!
 
 About Me
-As a Junior Frontend Developer, I have experience building responsive, user-friendly web applications with modern tools and technologies. My work spans 5 projects in the creative industry, including websites for artists, bands, and radio stations.
+Specializes in building and maintaining tailored web solutions for clients in the creative industry. Focuses on developing unique, visually engaging, and functional websites.
 
 #### Technologies & Tools:
 
