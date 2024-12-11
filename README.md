@@ -1,6 +1,7 @@
 ## Hey 👋, I'm Olena Kononchuk!
 
 About Me
+
 Specializes in building and maintaining tailored web solutions for clients in the creative industry. Focuses on developing unique, visually engaging, and functional websites.
 
 #### Technologies & Tools:
