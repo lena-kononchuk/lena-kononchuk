@@ -3,14 +3,20 @@
 About Me
 As a Junior Frontend Developer, I have experience building responsive, user-friendly web applications with modern tools and technologies. My work spans 5 projects in the creative industry, including websites for artists, bands, and radio stations.
 
-Technologies & Tools
+#### Technologies & Tools:
+
 Frontend: Vue.js 3, HTML5, CSS3 (Sass/Less).
+
 Backend: Laravel, Vite.
-Databases: MySQL, Sequel Ace.
+
+Databases: MySQL (Sequel Ace).
+
 Version Control: Git (Bitbucket/GitHub).
+
 DevOps: Docker for consistent development environments.
-Workflow
-I follow Scrum methodologies, manage tasks with Trello, and collaborate effectively using Slack. I’m passionate about creating clean, efficient, and scalable solutions.
+
+
+I follow Scrum methodologies, manage tasks with Trello/Monday, and collaborate effectively using Slack. I’m passionate about creating clean, efficient, and scalable solutions.
 
 ### Languages and Tools:
 <p align="center">
