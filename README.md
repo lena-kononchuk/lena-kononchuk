@@ -4,6 +4,7 @@ Full-Time: 6 months
 Project-Based: 6 months
 
 Developed responsive and scalable web applications for clients in creative industries, such as artists, bands, and radio stations.
+
 Developed a CRM system to improve workflow management.
 
 #### Technologies & Tools:
