@@ -1,20 +1,22 @@
 ## Hey 👋, I'm Olena Kononchuk!
 
-About Me
-
-Specializes in building and maintaining tailored web solutions for clients in the creative industry. Focuses on developing unique, visually engaging, and functional websites.
+Focuses on developing unique, visually engaging, and functional websites.
 
 #### Technologies & Tools:
 
-Frontend: Vue.js 3, HTML5, CSS3 (Sass/Less).
+Frontend: Vue.js (Composition API), HTML5, CSS frameworks (Tailwind, Bootstrap), preprocessors (SASS/SCSS).
 
-Backend: Laravel, Vite.
+Laravel: Basic API development, form handling, and data management.
 
 Databases: MySQL (Sequel Ace).
 
+Build Tools: Vite, Gulp
+
 Version Control: Git (Bitbucket/GitHub).
 
-DevOps: Docker for consistent development environments.
+Docker
+
+Figma
 
 
 I follow Scrum methodologies, manage tasks with Trello/Monday, and collaborate effectively using Slack. I’m passionate about creating clean, efficient, and scalable solutions.
