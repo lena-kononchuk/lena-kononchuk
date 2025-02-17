@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kononchuk Olena
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Olena
 =======================================================================================================================================
 
 With over 1 year of experience (6 months Full-Time | 6 months Project-Based), I focus on developing responsive, dynamic web applications using Vue.js 3 (Composition API). My goal is to create intuitive, accessible user interfaces while ensuring apps work seamlessly across different browsers. I’m dedicated to ensuring cross-browser compatibility and maintainable code, always striving to improve my skills and produce high-quality work.
